@@ -1,7 +1,7 @@
 import sys
 from PyQt4 import QtGui, QtCore
 
-### How can I use QtGui.QWidget here??? ###
+
 
 class Example(QtGui.QMainWindow):                                  
      def __init__(self):
